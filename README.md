@@ -31,6 +31,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - Scope: Focus on the latest dataset only; historization of data is not required.  
 - Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
+## Data Architeccture
+<img width="1544" height="794" alt="image" src="https://github.com/user-attachments/assets/ad374911-279d-4673-b859-2bef3b0ec5c8" />
+
 ## Repository Structure
 ```
 data-warehouse-project/
